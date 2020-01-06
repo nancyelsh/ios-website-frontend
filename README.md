@@ -1,2 +1,2 @@
 # ios-website-frontend
-Frontend repository of an informative website of an iOS development course.
+Frontend repository of an informative website for an iOS development course.
